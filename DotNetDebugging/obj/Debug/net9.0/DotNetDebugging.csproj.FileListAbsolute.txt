@@ -1,0 +1,15 @@
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.deps.json
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.runtimeconfig.json
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.pdb
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.AssemblyInfo.cs
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.sourcelink.json
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/refint/DotNetDebugging.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.pdb
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.genruntimeconfig.cache
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDebugging/obj/Debug/net9.0/ref/DotNetDebugging.dll

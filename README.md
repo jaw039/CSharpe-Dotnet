@@ -50,9 +50,6 @@ The repository is organized into multiple projects, each focusing on different a
 
 Contributions are welcome! If you have ideas for new practice projects or improvements to existing ones, feel free to open an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 

@@ -58,3 +58,9 @@
 /Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
 /Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/obj/Debug/net9.0/DotNetDependencies.csproj.AssemblyReference.cache
 /Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/obj/Debug/net9.0/DotNetDe.D8D57B9E.Up2Date
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/az/Humanizer.resources.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/is/Humanizer.resources.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/Users/jackiewang/Documents/GitHub/CSharpe-Dotnet-/DotNetDependencies/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
