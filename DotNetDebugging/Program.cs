@@ -1,6 +1,7 @@
-﻿int result = Fibonacci(5);
-Console.WriteLine(result);
+﻿using System.Diagnostics;
 
+int result = Fibonacci(5);
+Console.WriteLine(result);
 static int Fibonacci(int n)
 {
     int n1 = 0;
